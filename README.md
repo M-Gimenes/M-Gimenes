@@ -5,7 +5,7 @@
 <div>
   <a href="https://github.com/M-Gimenes">
   <img src="https://github-readme-stats.vercel.app/api?username=M-Gimenes&show_icons=true&theme=tokyonight"><br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Gimenes"+""https://github.com/M-Gimenes/github-readme-stats">                                                                                                                    </div>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Gimenes&theme=tokyonight"+""https://github.com/M-Gimenes/github-readme-stats">                                                                                                                    </div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gimenes-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
